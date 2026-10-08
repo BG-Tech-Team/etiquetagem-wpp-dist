@@ -2,9 +2,9 @@
 
 Repositório público de apoio à extensão **Etiquetagem rápida WhatsApp Web**.
 
-Hoje tem **um único propósito**: hospedar a **política de privacidade** da extensão
-via **GitHub Pages** — link exigido na ficha da Chrome Web Store.
+Hoje hospeda via **GitHub Pages** o **manual de instruções** e a **política de privacidade** da extensão:
 
+- 📖 Manual de instruções: <https://bg-tech-team.github.io/etiquetagem-wpp-dist/manual.html>
 - 📄 Política de privacidade: <https://bg-tech-team.github.io/etiquetagem-wpp-dist/privacy.html>
 
 A **extensão** é distribuída pela **Chrome Web Store** (visibilidade "não listada");
